@@ -1,4 +1,6 @@
-ttThis is the intial test for git
+This is the intial test for git
+
+This is to test diff gif command
 
 This ia a new file too
 This is a modification
